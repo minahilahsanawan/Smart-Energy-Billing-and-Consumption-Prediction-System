@@ -239,7 +239,5 @@ The active month can be changed from the Admin or Customer menu.
 ---
 ## Authors
 Minahil Ahsan Awan  
-Saleha Wasim  
-Abdullah Bin Mehmood  
 Email: minahilahsaanawan@gmail.com  
 LinkedIn: https://linkedin.com/in/minahilahsaanawan
