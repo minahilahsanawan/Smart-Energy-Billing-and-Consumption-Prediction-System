@@ -237,7 +237,7 @@ The active month can be changed from the Admin or Customer menu.
 - Auto-simulation is randomized and may produce noisy data that affects prediction stability.
 
 ---
-## Authors
+## Author
 Minahil Ahsan Awan  
 Email: minahilahsaanawan@gmail.com  
 LinkedIn: https://linkedin.com/in/minahilahsaanawan
