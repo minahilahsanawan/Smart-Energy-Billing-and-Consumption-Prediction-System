@@ -238,6 +238,4 @@ The active month can be changed from the Admin or Customer menu.
 
 ---
 ## Author
-Minahil Ahsan Awan  
-Email: minahilahsaanawan@gmail.com  
-LinkedIn: https://linkedin.com/in/minahilahsaanawan
+Minahil Ahsan
